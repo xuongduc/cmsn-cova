@@ -1,0 +1,28 @@
+body {
+    background-color: #c6b7c8;
+
+}
+#cake {
+    display : block;
+    max-width : 30%;
+    height : auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#fire {
+    display : block;
+    max-width : 30%;
+    height : auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    visibility : hidden;
+}
+ 
+div {
+    background: white;
+    visibility: hidden;
+}
